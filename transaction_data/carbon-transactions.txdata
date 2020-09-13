@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "carbonExists",
+        "transactionLabel": "A test carbonExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createCarbon",
+        "transactionLabel": "A test createCarbon transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readCarbon",
+        "transactionLabel": "A test readCarbon transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateCarbon",
+        "transactionLabel": "A test updateCarbon transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteCarbon",
+        "transactionLabel": "A test deleteCarbon transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
